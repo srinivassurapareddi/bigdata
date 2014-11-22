@@ -1,0 +1,58 @@
+
+ objektkontrolle bues3-ja95     ST_BUS1_ESU2 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS1_ESU2 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS1_ESU2 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95     ST_BUS2_ESU2 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS2_ESU2 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS2_ESU2 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95     ST_BUS1_TER debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS1_TER debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS1_TER debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95     ST_BUS2_ESS3 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS2_ESS3 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS2_ESS3 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95     ST_BUS1_ESS4 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS1_ESS4 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS1_ESS4 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95 smc  debug_c   ccr_seriell      128
+ objektkontrolle bues3-ja95 smc  debug_c   isa2det         128
+ objektkontrolle bues3-ja95 ext_ereignisse  debug_c   ext_ereignis_if         128
+ 
+ objektkontrolle bues3-ja95     ST_BUS1_ESU1 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS1_ESU1 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS1_ESU1 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95     ST_BUS2_ESU1 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS2_ESU1 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS2_ESU1 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95     ST_BUS1_ESS2 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS1_ESS2 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS1_ESS2 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95     ST_BUS1_ESS3 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS1_ESS3 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS1_ESS3 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95 smc  debug_c   ccr_seriell      128
+ objektkontrolle bues3-ja95 smc  debug_c   regler      128
+ objektkontrolle bues3-ja95 smc  debug_c   isa2det   128
+ objektkontrolle bues3-ja95 ext_ereignisse  debug_c   ext_ereignis_if         128
+ 
+
+ objektkontrolle bues3-ja95     ST_BUS1_ESU3 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS1_ESU3 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS1_ESU3 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95 smc  debug_c   regler      128
+ objektkontrolle bues3-ja95 smc  debug_c   ccr_seriell      128
+ objektkontrolle bues3-ja95 smc  debug_c   lcm         128
+ objektkontrolle bues3-ja95 smc  debug_c   ame         128
+ objektkontrolle bues3-ja95 smc  debug_c   laf_kanal   128
+ objektkontrolle bues3-ja95 ext_ereignisse  debug_c   ext_ereignis_if         128
+
+
+ objektkontrolle bues3-ja95     ST_BUS1_ESU3 debug_c  msg_verteiler 128
+ objektkontrolle bues3-ja95     ST_BUS1_ESU3 debug_c  pd_kanal      128
+ objektkontrolle bues3-ja95 ddi_ST_BUS1_ESU3 debug_c  DDI_i        4369
+ objektkontrolle bues3-ja95 smc  debug_c   ccr_seriell      128
+ objektkontrolle bues3-ja95 smc  debug_c   regler      128
+ objektkontrolle bues3-ja95 smc  debug_c   lcm         128
+ objektkontrolle bues3-ja95 smc  debug_c   ame         128
+ objektkontrolle bues3-ja95 smc  debug_c   laf_kanal   128
+ objektkontrolle bues3-ja95 ext_ereignisse  debug_c   ext_ereignis_if         128
